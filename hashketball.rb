@@ -1,6 +1,5 @@
 
 def game_hash
-  new_hash = {:home => {
-                :away => 2}
-              }
+  new_hash = {:home => "test", :away => "test2"}
+
 end
